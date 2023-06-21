@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @domneedham
-- 👀 I’m interested in web, flutter, smart home and beta builds of everything :)
-- 🌱 I’m currently learning to program microcontrollers
-- 💞️ I’m looking to collaborate on open-source Home Assistant projects
+- 👀 I’m interested in C#, Rust, smart home and beta builds of everything :)
+- 🌱 I’m currently learning to program microcontrollers in Rust
+- 💞️ I’m looking to collaborate on open-source Home Assistant projects and build Pico software
 - 📫 How to reach me - Twitter!
 
 <!---
